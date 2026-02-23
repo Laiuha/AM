@@ -33,3 +33,4 @@ draw_tree(width//2, height-1, math.pi/2, 7, canvas)
 
 for row in canvas:
     print("".join(row))
+# test
